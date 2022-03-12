@@ -1,3 +1,3 @@
 #Library 
 
-![Screenshot](/home/renegade/Pictures/1.png)
+![Screenshot](home/renegade/Pictures/1.png)
